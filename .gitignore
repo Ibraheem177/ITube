@@ -32,7 +32,7 @@ build/
 ### VS Code ###
 .vscode/
 
-### Frontend (Create React App) ###
+### Frontend (Vite + React) ###
 **/node_modules/
 **/.pnp
 **/.pnp.js
